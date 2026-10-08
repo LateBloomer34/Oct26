@@ -1,0 +1,15 @@
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+
+}
+.box1{
+    margin-bottom: 10px;
+}
+.box2{
+    margin-top: 10px;
+}
+.box3{
+    margin-top: 10px;
+}

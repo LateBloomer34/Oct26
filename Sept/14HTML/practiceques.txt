@@ -1,0 +1,155 @@
+🏆 DEV1 — 15 Practice Questions
+
+These are your 15 graded questions for today.
+
+Don't search for answers immediately. Try them yourself.
+
+🟢 Easy — Q1–Q5
+
+Q1. What does HTML stand for, and what is its primary purpose?
+
+Q2. Is HTML a programming language? Explain why or why not.
+
+Q3. What is the purpose of:
+
+<!DOCTYPE html>
+
+Q4. What is the difference between an HTML tag and an HTML element?
+
+Q5. What is the purpose of the <body> element?
+
+🟡 Easy–Medium — Q6–Q9
+
+Q6. Explain the difference between <head> and <body>.
+
+Give at least three examples of things that can belong in <head>.
+
+Q7. Explain this line completely:
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+Break down each important part.
+
+Q8. What is an attribute?
+
+Identify the elements, attributes, and attribute values here:
+
+<html lang="en">
+    <img src="profile.jpg" alt="My profile photo">
+</html>
+
+Q9. Is this HTML correctly nested?
+
+<div>
+    <p>Hello <strong>World</p></strong>
+</div>
+
+If not, rewrite it correctly and explain the mistake.
+
+🟠 Medium — Q10–Q13
+
+Q10. Build a complete HTML5 document from memory with:
+
+Doctype
+html
+lang
+head
+charset
+viewport
+title
+body
+h1
+paragraph
+
+Do not copy your previous exercise.
+
+Q11. Someone writes:
+
+<html>
+
+    <body>
+
+        <h1>My Website</h1>
+
+    </body>
+
+    <head>
+        <title>My Website</title>
+    </head>
+
+</html>
+
+What is wrong with the structure? Rewrite it correctly.
+
+Q12. Explain why this:
+
+<title>My Portfolio</title>
+
+is not equivalent to:
+
+<h1>My Portfolio</h1>
+
+Even though they contain the same text.
+
+Q13. Create this hierarchy using HTML:
+
+BODY
+│
+├── H1 → My Portfolio
+│
+├── P → Welcome to my portfolio.
+│
+└── DIV
+    ├── H2 → My Skills
+    └── P → HTML, CSS and JavaScript
+🔴 Challenge — Q14–Q15
+
+Q14. — Debugging challenge
+
+A beginner writes:
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Page</title>
+</head>
+
+<body>
+
+    <h1>My Website</h1>
+
+    <p>This is my <strong>first website.</p>
+
+    <img src="profile.jpg">
+
+</body>
+
+</html>
+
+Find all important problems you can identify.
+
+Don't just fix the code.
+
+Explain why each issue matters.
+
+Q15. — Build from requirements
+
+Create a complete HTML document for a fictional developer named Alex.
+
+Requirements:
+
+Page language: English
+Proper HTML5 document structure
+UTF-8
+Responsive viewport
+Browser title: Alex | Developer
+Visible h1: Alex's Developer Journey
+One introductory paragraph
+h2: My Goals
+A paragraph describing two goals
+An HTML comment identifying the goals section
+Correct indentation
+Proper nesting
+
+Constraint: Do it from memory. Don't look at today's example while writing it.

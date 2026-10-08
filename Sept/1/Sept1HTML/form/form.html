@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asana Form</title>
+</head>
+<body>
+    <div>
+        <form action="" method="post">
+            <label for="firstname">First Name</label>
+            <input id="firstname" type="text" placeholder="e.g., John" required>
+            <label for="lastname">Last Name</label>
+            <input type="text" id="lastname" placeholder="Smith">
+            <label for="companyemail">Company Email</label>
+            <input type="email" id="companyemail" placeholder="name@company.com" required>
+
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" placeholder="+1 555 655 5656" required>
+
+            <label for="country">country</label>
+            <select name="country" id="country" >
+                <option value="uk">united kingdom</option>
+                <option value="india">india</option>
+                <option value="usa">usa</option>
+                <option value="bangladesh">bangladesh</option>
+                <option value="pakistan">pakistan</option>
+                <option value="srilanka">srilanka</option>
+                <option value="germany">germany</option>
+            </select>
+            <label for="companySize">company size</label>
+            <select name="teamsize" id="companySize">
+                <option value="10">0-10</option>
+                <option value="100">11-100</option>
+                <option value="250">101-250</option>
+                <option value="251">251+</option>
+            </select>
+            <label for="msg">What whould you like to discuss</label>
+            <textarea name="message" id="msg" placeholder="tell us about your team and provide some details about a project or process you would like to track asan"></textarea>
+
+            <input type="checkbox" id="t&c" required>
+            <label for="t&c">by checking <a href="https://www.google.com">privacy statement</a></label>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>

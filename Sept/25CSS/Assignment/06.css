@@ -1,0 +1,12 @@
+
+div{
+    background-image: url(./ChatGPT\ Image\ Sep\ 23\,\ 2026\,\ 01_19_42\ PM.png);
+    background-position: bottom left;
+    height: 100vh;
+    width: 100vw;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    /* background-size: ; */
+    border: 2px solid black;
+    padding: 20px;
+}

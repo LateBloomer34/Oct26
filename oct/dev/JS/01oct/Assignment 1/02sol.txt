@@ -1,0 +1,20 @@
+variable is a container to store data inside it
+let x = value; // reassign but not redeclear
+const x = "name" // not redeclear nor assign
+var is the keyword to create varibale which can resiign and redeclear
+Declaration tells JavaScript that a variable exists. Initialization gives that variable its initial value.
+var name = "him";
+var age = 21;
+var city = "delhi"; console.log(city);
+let a= 15; let b = 1 ; console.log(a+b);
+let a = 6 ; a = 8; console.log(a) ;
+no const can not reassign nor redeclear;
+no we can not cahnge the property of const, but we can change the value of conat in object, not in varibale
+no let can not be redeclear in same scope but we can ressign that value in same scope
+yes var can be redeclear and reassign
+it will throw an error refrence error: can not access before initilization
+var- redeclear and reassign, let -reassign but not redeclear, const - neither redeclear nor reassign
+block scope is the scope in which we can access the varibale inside the particular block {} not outside the block;
+Function scope means a variable declared with var inside a function can be accessed throughout that function, but not outside the function. 
+Hoisting is the JavaScript behavior wher we can delcre the function and variable before equecution starts.
+tdz-  ; console.log(x);let x = 15; TDZ (Temporal Dead Zone) is the period where a let or const variable exists in its scope but cannot be accessed before its declaration is reached.

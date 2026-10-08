@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    border: 2px solid black;
+    height: 100vh;
+}
+.child1{
+    border: 1px solid red;
+    height: 300px;
+    width: 300px;
+    padding: 200px;
+    margin: 0 0 0 100px  ;
+    border-radius: 10px;
+}

@@ -1,0 +1,20 @@
+js is a programing language which is widely used for create intreactive webpages and UI, A programming language is a language used to write instructions and logic that a computer can execute to perform tasks and solve problems.
+javascript is used to create intractive and dynamic webpages and UI, as well as js is used for create backend of the wepages or apps 
+html is the skeleton of webpages , css is used to design / style the webpages , and JavaScript is used to add logic, behavior, and interactivity, making the webpage dynamic and responsive to user actions 
+we can run js code on browser, server,mobile app, desktop app , cloud app, gaming enviroment  
+Ecma International is an organization that develops and publishes standards which defines how the js language should work.
+console.log("hello world");
+console.log("himanshu");
+console.log(21);
+console.log("champawat");
+console.log(a);console.log(b);console.log(c);
+console.log("himanshu" , 21);
+console.log(10+20);
+console.log(50-25);
+console.log(10*5);
+console.log(100/4);
+js is a programing language which is used to creted dynamic and intractive webpages having some functionality and logical ability, whereas ecmascript is an standard which defines the standard/rules for scripting langauges 
+JavaScript runs in a browser then its main purpose is to interact with the webpage and the user. and when js run in nodejs we can allow it to run it outside the browser
+when js encounter an error it stops the executions at that point and provide some error message.
+Strict mode makes JavaScript stricter about certain mistakes and prevents some potentially problematic behavior.
+js is a dynamic type langauge , coz we can make changes dynamically, variable does not have fixed datatype they must be declear when create it, we can change a varibale from number to string to boolean to other type, no need to specify the data type in js.

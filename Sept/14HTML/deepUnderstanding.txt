@@ -1,0 +1,22 @@
+Deep understanding questions
+
+1-What does HTML stand for? -  html stands for hypertext markup language
+2- Is HTML a programming language? - html is not a programming language, it is a markup language for creating skeleton of webpage. a progarmig lanaguge is different from markup language which consist the logic of operation such as arthmatic , boolean
+3- What is the purpose of HTML? the main purpose of HTMl is to create skeleton of webpages
+4-What does <!DOCTYPE html> do? it is the emmet for a html files which indicate that document is html type having all latest functionality 
+5- Is DOCTYPE an HTML element? - no doctype is not a html element , it indiacte the browser cosisit the latest functionality
+6 - What is the root element? root element is the parent element , rest all element are the child element of that root element
+7- What does lang="en" mean? it support the english language 
+8 - What is the purpose of <head>? head tag conatins the metadata of webpage ,  that data will not visible in webpage
+9 - What is the purpose of <body>? body conatins the data which is visible in webpage
+10 - What does <meta charset="UTF-8"> do? it specify html support the specific set of characters 
+12- Why do we use the viewport meta tag? how that documnet visible to users
+13- What is the difference between <title> and <h1>? title tag is the apecify the details of page and h1 is the main heading of page or a section  
+14 - What is an HTML tag? html tag consist the head and body tag as head tag contains the info about webpage , and body tag containd the content of wepage which is visible in webpage
+15 - What is an HTML element? html element conatins the html tag and content
+16 - What is an attribute? attribute is the property of specific tag
+17 - What does nesting mean? tag inside tag is called nesting  ex - div inside div
+18 - Why is indentation useful? - indetation make code easy to indentifiy or it will enhanc the readibility of webpage 
+19 - What is an HTML comment? comment is creted by the user for better understanding of to make notes inisde the code which is not visble in ui 
+20 -What is the difference between opening and closing tags?  - opening tag is start of tag and closing tag is end of tag , inside opening and closing tag we can store the content or data 
+21 - What happens conceptually when a browser parses HTML? data goes inside the brower engine and that that engine create the server and display it on webpage or in display

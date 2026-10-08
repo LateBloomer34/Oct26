@@ -1,0 +1,34 @@
+table{
+    width: 800px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 50px auto;
+
+}
+
+tr>th , tr>td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(205, 205, 229);
+}
+
+/* alternate row color */
+tbody tr:nth-child(even){
+    background-color: burlywood;
+}
+
+ tbody tr:nth-child(odd){
+    background-color: antiquewhite;
+}
+
+th, td{
+    height: 30px;
+}
+
+tbody tr:hover{
+    background-color: aqua;
+}
