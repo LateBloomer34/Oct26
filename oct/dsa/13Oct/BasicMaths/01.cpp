@@ -16,7 +16,7 @@ int main (){
 
 
     int b ;
-    cout<<"enter the value of b :- ";
+    cout<<"enter the value of b:- ";
     cin>>b;
 
     int result = sum(a,b);
