@@ -5,7 +5,7 @@
 using namespace std;
 
 int sum(int a , int b){
-    int total = a+b;
+    int total = a+b ;
     return total;
 }
 
