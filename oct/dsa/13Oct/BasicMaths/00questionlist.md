@@ -63,7 +63,7 @@ LeetCode: #7 — https://leetcode.com/problems/reverse-integer/
 Problem: Reverse the digits of a signed 32-bit integer. Return 0 if the reversed number overflows the signed 32-bit range.
 Example 1: Input: x = 123 | Output: 321
 Example 2: Input: x = -120 | Output: -21
-Example 3: Input: x = 1534236469 | Output: 0
+Example 3: Input: x = 1534236469 | Output: 0  // for this test case we no need to write long long, we just need to write a condition if num is revNum>int_max ans less than int min we need to return 0;
 Constraints: -2^31 <= x <= 2^31 - 1
 
 ### 10. Palindrome Number
