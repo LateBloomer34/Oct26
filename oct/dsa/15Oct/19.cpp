@@ -1,3 +1,6 @@
+// power of four
+
+
 #include<iostream>
 using namespace std;
 
