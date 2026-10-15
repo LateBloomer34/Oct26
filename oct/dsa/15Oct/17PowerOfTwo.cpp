@@ -10,8 +10,6 @@ bool power(int num){
     while(num%2==0){
         num = num/2;
     }
-
-   
     return num==1; // automatically calculate true of false
 }
 
